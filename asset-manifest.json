@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d056aa9.css",
+    "main.css": "/static/css/main.2c67ee41.css",
     "main.js": "/static/js/main.a21e6d65.js",
     "static/media/FadyAbdelmassih-resume.pdf": "/static/media/FadyAbdelmassih-resume.6c213201c16ca3fde5fc.pdf",
     "static/media/me.jpg": "/static/media/me.88d21d22550c7325faea.jpg",
@@ -10,11 +10,11 @@
     "static/media/bg.png": "/static/media/bg.a531063d7153d0f86f8a.png",
     "static/media/youtube-icon.png": "/static/media/youtube-icon.bade3893d7d3e2dbca87.png",
     "index.html": "/index.html",
-    "main.1d056aa9.css.map": "/static/css/main.1d056aa9.css.map",
+    "main.2c67ee41.css.map": "/static/css/main.2c67ee41.css.map",
     "main.a21e6d65.js.map": "/static/js/main.a21e6d65.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d056aa9.css",
+    "static/css/main.2c67ee41.css",
     "static/js/main.a21e6d65.js"
   ]
 }
