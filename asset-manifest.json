@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.753674a3.css",
-    "main.js": "/static/js/main.a21e6d65.js",
+    "main.css": "/static/css/main.7b5c7f21.css",
+    "main.js": "/static/js/main.437cd42a.js",
     "static/media/FadyAbdelmassih-resume.pdf": "/static/media/FadyAbdelmassih-resume.6c213201c16ca3fde5fc.pdf",
     "static/media/me.jpg": "/static/media/me.88d21d22550c7325faea.jpg",
     "static/media/Linkedin-Icon.png": "/static/media/Linkedin-Icon.5be351e0a45fe2fa7953.png",
@@ -10,11 +10,11 @@
     "static/media/bg.png": "/static/media/bg.a531063d7153d0f86f8a.png",
     "static/media/youtube-icon.png": "/static/media/youtube-icon.bade3893d7d3e2dbca87.png",
     "index.html": "/index.html",
-    "main.753674a3.css.map": "/static/css/main.753674a3.css.map",
-    "main.a21e6d65.js.map": "/static/js/main.a21e6d65.js.map"
+    "main.7b5c7f21.css.map": "/static/css/main.7b5c7f21.css.map",
+    "main.437cd42a.js.map": "/static/js/main.437cd42a.js.map"
   },
   "entrypoints": [
-    "static/css/main.753674a3.css",
-    "static/js/main.a21e6d65.js"
+    "static/css/main.7b5c7f21.css",
+    "static/js/main.437cd42a.js"
   ]
 }
