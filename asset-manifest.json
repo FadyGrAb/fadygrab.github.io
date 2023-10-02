@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ce475ce5.css",
-    "main.js": "/static/js/main.967b9595.js",
+    "main.js": "/static/js/main.eed77542.js",
     "static/media/me.jpg": "/static/media/me.88d21d22550c7325faea.jpg",
     "static/media/FadyAbdelmassih-resume.pdf": "/static/media/FadyAbdelmassih-resume.4dd49f260360b6e01ab9.pdf",
     "static/media/Alcatel-Lucent-Logo.png": "/static/media/Alcatel-Lucent-Logo.0f7fb393bc753da268ab.png",
@@ -19,10 +19,10 @@
     "static/media/dev-hackathon.webp": "/static/media/dev-hackathon.5122ea6f863f2290c8ce.webp",
     "index.html": "/index.html",
     "main.ce475ce5.css.map": "/static/css/main.ce475ce5.css.map",
-    "main.967b9595.js.map": "/static/js/main.967b9595.js.map"
+    "main.eed77542.js.map": "/static/js/main.eed77542.js.map"
   },
   "entrypoints": [
     "static/css/main.ce475ce5.css",
-    "static/js/main.967b9595.js"
+    "static/js/main.eed77542.js"
   ]
 }
